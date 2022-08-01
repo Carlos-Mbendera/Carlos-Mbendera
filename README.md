@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Carlos-Mbendera
 - 👀 I’m interested in making rad mobile apps
-- 🌱 I’m currently learning AWS 
+- 🌱 I’m currently learning AWS and iOS
 - 📫 How to reach me? Twitter, Discord or Email please.
 
 <!---
